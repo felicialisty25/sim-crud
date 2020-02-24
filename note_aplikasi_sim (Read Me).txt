@@ -1,0 +1,5 @@
+Untuk install pdf pada laravel
+composer require barryvdh/laravel-dompdf
+
+Untuk menyambungkan storage ke public
+php artisan storage:link
