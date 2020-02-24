@@ -1,5 +1,7 @@
 Untuk install pdf pada laravel
 composer require barryvdh/laravel-dompdf
 
+KETIKA DI DOWNLOAD STORAGE DAN PUBLIC BELUM TERSAMBUNG SEHINGGA HARUS MENGHAPUS FOLDER STORAGE PADA PUBLIC DAN MELAKUKAN SYNTAX SEPERTI DI BAWAH INI
+
 Untuk menyambungkan storage ke public
 php artisan storage:link
